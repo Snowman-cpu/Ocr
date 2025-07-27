@@ -1,0 +1,16 @@
+{
+  "avg_cer": 0.9949788701672116,
+  "avg_wer": 1.0,
+  "cer_by_doc": {
+    "unknown": 0.9969879518072289,
+    "Paredes": 0.9970845481049563,
+    "Constituciones": 0.9915492957746479,
+    "Buendia": 0.997134670487106
+  },
+  "wer_by_doc": {
+    "unknown": 1.0,
+    "Paredes": 1.0,
+    "Constituciones": 1.0,
+    "Buendia": 1.0
+  }
+}
