@@ -1,4 +1,4 @@
- A detailed markdown report based on my analysis of the OCR system for historical Spanish documents.
+
 
 # Transformer-Based OCR System for Historical Spanish Documents: Technical Report
 
